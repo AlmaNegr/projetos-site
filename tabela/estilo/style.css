@@ -1,20 +1,27 @@
 body {
-    
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0px 0px 8px rgb(0, 0, 0, 0.5);
 }
 
 table {
     width: 300px;
     border-collapse: collapse;
+    margin: auto;
+    box-shadow: 0px 0px 8px rgb(0, 0, 0, 0.5);;
 }
 
 tr.linha1 {
     background-color: blue;
-}
-
-tr.linha1 td {
-    background-image: url('imagens/fundo-bike.jpg');
-    background-size: 100%;
-    height: 10vh;
 }
 
 tr.linha2 {
