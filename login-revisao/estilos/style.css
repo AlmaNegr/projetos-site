@@ -36,6 +36,7 @@ section {
 
 section div#imagem {
     background: #CB5CFA url('../imagens/aço.jpg') no-repeat;
-    background-position: ;
+    background-position: center 
+    ;
     height: 200px;
 }
