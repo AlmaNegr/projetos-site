@@ -32,7 +32,7 @@ section {
     overflow: hidden;
 
     background-color: white;
-    height: 450px;
+    height: 400px;
     width: 200px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.495);
 }
@@ -40,7 +40,7 @@ section {
 section#login div#imagem {
     background: #CB5CFA url('../imagens/aço.jpg') no-repeat;
     background-position: right center;
-    height: 220px;
+    height: 180px;
 }
 
 section#login div#formulario {
